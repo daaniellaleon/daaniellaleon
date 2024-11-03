@@ -1,7 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roman&weight=100&size=23&duration=4768&pause=953&color=C54582&background=FFFFFF00&height=62&lines=Glad+you+are+here!;Send+me+some+Coffee+ASAP!!;JK...)](https://git.io/typing-svg)
 **Hello there, it´s me Dani!**
-
-☕**About me:** Software Engineering student by day, curious explorer of all things tech by... well, all the time!😄
+<br />
+![github](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG50Y2E2c3EyanV6YWwwbDc4b25waG83d3MxNmQwMjN4Z2FhamV0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F99PZtJC8Hxm0/giphy.webp)
+<br />☕**About me:** Software Engineering student by day, curious explorer of all things tech by... well, all the time!😄
 
 🤸 **Currently:** Enrolled in my 2nd year at `Universidad Tecnológica de Panamá`
 
